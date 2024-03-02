@@ -22,3 +22,5 @@ To use the LCD Marketing Controller:
     Connect the LCD display to the Raspberry Pi.
     Run the Python script lcd_marketing_controller.py.
     The graphical user interface will appear, allowing you to interact with the LCD display.
+
+![marketing_LCD](https://github.com/Ahmed00Gaber/Advertising_LCD_Controller/assets/113920593/aac29752-848a-4ec5-8e68-f15ce8f1c95c)
